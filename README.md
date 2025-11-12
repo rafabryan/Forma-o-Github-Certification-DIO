@@ -9,3 +9,5 @@ Formação Github Certification Reposítório
 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
 
 ### Criando chave SSH
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIACvD9nERj+HbWTXzjdAnQMm/vfs3dBHHox7gPH1Xolt rafaeel.fs@gmail.com
